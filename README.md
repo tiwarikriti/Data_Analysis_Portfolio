@@ -5,3 +5,7 @@ Throughout my journey in data analysis, I’ve explored various projects—from 
 
 Outside of data, I enjoy learning new tools, staying updated on industry trends, and connecting with fellow data lovers. Let’s collaborate and create something amazing together!
 
+You can peek at my resume [here](Kriti_Tiwari_DA.pdf). It’s like my data journey in a nutshell!
+
+
+
