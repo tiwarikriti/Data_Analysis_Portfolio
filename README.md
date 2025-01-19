@@ -1,6 +1,6 @@
-###Kriti Tiwari - Data Analysis Portfolio
+### Kriti Tiwari - Data Analysis Portfolio
 
-##About
+## About
 
 Hey there! 
 I’m Kriti, a curious data enthusiast who loves diving into datasets and uncovering meaningful insights. Whether it’s working with SQL, Excel, or visualizing data with Power BI, I enjoy turning numbers into stories that help make data-driven decisions.
