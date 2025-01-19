@@ -11,6 +11,10 @@ Outside of data, I enjoy learning new tools, staying updated on industry trends,
 
 You can peek at my resume [here](Kriti_Tiwari_DA.pdf). It’s like my data journey in a nutshell!
 
+## Table of Contents
+
+- [About] (#about) 
+
 
 
 
