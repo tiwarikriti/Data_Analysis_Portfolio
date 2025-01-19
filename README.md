@@ -14,7 +14,7 @@ You can peek at my resume [here](Kriti_Tiwari_DA.pdf). It’s like my data journ
 ## Table of Contents
 
 - [About](#about) 
-- [Portfolio Projects](#portfolio projects)
+- [Portfolio Projects](#portfolio-projects)
 - [Education](#education)
 - [Contact](#contact)
 
@@ -25,6 +25,6 @@ You can peek at my resume [here](Kriti_Tiwari_DA.pdf). It’s like my data journ
 
 
 
-##Portfolio Projects
-##Education
-##Contact
+## Portfolio Projects
+## Education
+## Contact
