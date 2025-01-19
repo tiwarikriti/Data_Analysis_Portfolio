@@ -1,4 +1,4 @@
-### Kriti Tiwari - Data Analysis Portfolio
+# Kriti Tiwari - Data Analysis Portfolio
 
 ## About
 
