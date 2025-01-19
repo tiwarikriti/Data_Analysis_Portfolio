@@ -13,7 +13,7 @@ You can peek at my resume [here](Kriti_Tiwari_DA.pdf). It’s like my data journ
 
 ## Table of Contents
 
-- [About] (#about) 
+- [About](#about) 
 
 
 
