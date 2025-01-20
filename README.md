@@ -22,6 +22,7 @@ You can peek at my resume [here](Kriti_Tiwari_DA.pdf). It’s like my data journ
   - Power BI
     - [Sales and Trend Analysis Project](sales-and-trend-analysis-project)
     - [Election Results Analysis](election-results-analysis)
+  - Excel/Google Sheets
 - [Education](#education)
 - [Contact](#contact)
 
