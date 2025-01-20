@@ -72,11 +72,11 @@ You can peek at my resume [here](Kriti_Tiwari_DA.pdf). It’s like my data journ
 **Technology**: Power BI
 
 ## Education
-University of Lucknow, U.P.: Bchelor's of Technology, Computer Science and Technology, 2020-2024
+- University of Lucknow, U.P.: Bchelor's of Technology, Computer Science and Technology, 2020-2024
  - 8.7GPA
-S.V.M. Senior Secondary School, U.P. : Science, 2018-2020
+- S.V.M. Senior Secondary School, U.P. : Science, 2018-2020
  - 93%
 
 ## Contact
-LinkedIn: [@krititiwari](www.linkedin.com/in/tiwarikriti)
-GMail: [krititiwaaaari@gmail.com](krititiwaaaari@gmail.com)
+- LinkedIn: [@krititiwari](www.linkedin.com/in/tiwarikriti)
+- GMail: [krititiwaaaari@gmail.com](krititiwaaaari@gmail.com)
