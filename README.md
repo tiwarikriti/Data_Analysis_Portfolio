@@ -16,12 +16,12 @@ You can peek at my resume [here](Kriti_Tiwari_DA.pdf). It’s like my data journ
 - [About](#about) 
 - [Portfolio Projects](#portfolio-projects)
   - SQL
-    - [Covid 19 Data Exploration](covid-19-data-exploration)
-    - [Foodie-Fi SQL Data Analysis](foodie-fi-sql-data-analysis)
-    - [Danny's Diner SQL Data Analysis](danny's-diner-sql-data-analysis)
+    - [Covid 19 Data Exploration](#covid-19-data-exploration)
+    - [Foodie-Fi SQL Data Analysis](#foodie-fi-sql-data-analysis)
+    - [Danny's Diner SQL Data Analysis](#danny's-diner-sql-data-analysis)
   - Power BI
-    - [Sales and Trend Analysis Project](sales-and-trend-analysis-project)
-    - [Election Results Analysis](election-results-analysis)
+    - [Sales and Trend Analysis Project](#sales-and-trend-analysis-project)
+    - [Election Results Analysis](#election-results-analysis)
   - Excel/Google Sheets
 - [Education](#education)
 - [Contact](#contact)
