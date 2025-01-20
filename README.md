@@ -78,5 +78,5 @@ You can peek at my resume [here](Kriti_Tiwari_DA.pdf). It’s like my data journ
   - 93%
 
 ## Contact
-- LinkedIn: [@krititiwari](www.linkedin.com/in/tiwarikriti)
+- LinkedIn: [@krititiwari](https://www.linkedin.com/in/tiwarikriti)
 - GMail: [krititiwaaaari@gmail.com](krititiwaaaari@gmail.com)
