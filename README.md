@@ -15,11 +15,15 @@ You can peek at my resume [here](Kriti_Tiwari_DA.pdf). It’s like my data journ
 
 - [About](#about) 
 - [Portfolio Projects](#portfolio-projects)
+  - SQL
+    - [Covid 19 Data Exploration](covid-19-data-exploration)
+    - [Foodie-Fi SQL Data Analysis](foodie-fi-sql-data-analysis)
+    - [Danny's Diner SQL Data Analysis](danny's-diner-sql-data-analysis)
+  - Power BI
+    - [Sales and Trend Analysis Project](sales-and-trend-analysis-project)
+    - [Election Results Analysis](election-results-analysis)
 - [Education](#education)
 - [Contact](#contact)
-
-
-
 
 ## Portfolio Projects
 ### Covid 19 Data Exploration
@@ -39,5 +43,40 @@ You can peek at my resume [here](Kriti_Tiwari_DA.pdf). It’s like my data journ
 **Skills**: DQL (Data Query Language), Analytical SQL, Aggregation, Window Functions, Joins, Subqueries.
 
 **Technology**: PostgreSQL
+
+### Danny's Diner SQL Data Analysis
+**Code**: [Danny's Diner Data Analysis Queries: Danny's Diner.sql](https://github.com/tiwarikriti/Data-Analysis/blob/main/Business%20Case%20Studies/Danny's%20Diner.sql)
+
+**Description**: This project focused on analyzing customer purchasing behavior at a restaurant using SQL. The analysis answered critical business questions such as customer spending patterns, visit frequency, menu preferences, and loyalty program impact. It also included calculations for reward points based on specific program rules and provided insights into pre- and post-membership purchasing habits.
+
+**Skills**: DQL (Data Query Language), Aggregations, Window Functions, Conditional Logic, Joins.
+
+**Technology**: PostgreSQL
+
+### Sales and Trend Analysis Project
+**File**: [Sales Data Analysis and Forecasting](https://github.com/tiwarikriti/Data-Analysis/tree/main/Walmart%20EDA%20and%20Predictive%20Analysis)
+
+**Description**: This project involved analyzing sales data using Power BI to uncover trends, seasonal patterns, and the impact of holidays on sales performance. Key steps included data cleaning, exploratory data analysis (EDA), and predictive modeling using Power BI's forecasting feature. The analysis provided strategic recommendations for inventory optimization and marketing strategies to enhance overall sales performance.
+
+**Skills**: Data Cleaning, EDA, Time Series Analysis, DAX, Forecasting, Strategic Planning.
+
+**Technology**: Power BI
+
+### Election Results Analysis
+**File**: [Election Data Visualization and Insights](https://github.com/tiwarikriti/Mentorness/tree/main/2024%20Election%20Result%20Analysis)
+
+**Description**: This project involved analyzing the 2024 election data using Power BI to uncover insights into election outcomes, party performance, and voter trends across various constituencies. By combining election results and party alliance data, interactive dashboards and visualizations were created to help stakeholders understand key election dynamics, including candidate performance, vote margins, and the influence of political alliances. The analysis also provided actionable recommendations to guide future election strategies.
+
+**Skills**: Data Modeling, Interactive Dashboards, Data Visualization, Analytical Insights, Strategic Planning.
+
+**Technology**: Power BI
+
 ## Education
+University of Lucknow, U.P.: Bchelor's of Technology, Computer Science and Technology, 2020-2024
+ - 8.7GPA
+S.V.M. Senior Secondary School, U.P. : Science, 2018-2020
+ - 93%
+
 ## Contact
+LinkedIn: [@krititiwari](www.linkedin.com/in/tiwarikriti)
+GMail: [krititiwaaaari@gmail.com](krititiwaaaari@gmail.com)
