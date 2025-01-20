@@ -23,12 +23,21 @@ You can peek at my resume [here](Kriti_Tiwari_DA.pdf). It’s like my data journ
 
 ## Portfolio Projects
 ### Covid 19 Data Exploration
-**Code**: [COVID.sql](https://github.com/tiwarikriti/Mentorness/blob/main/COVID%20Spread%20Analysis/COVID.sql)
+**Code**: [COVID Project.sql](https://github.com/tiwarikriti/Mentorness/blob/main/COVID%20Spread%20Analysis/COVID.sql)
 
 **Description**: The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
 
 **Skills**: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
 **Technology**: MySQL Server, Postgre SQL
+
+### Foodie-Fi SQL Data Analysis
+**Code**: [Foodie-Fi Data Analysis Queries: Foodie-Fi.sql](https://github.com/tiwarikriti/Data-Analysis/blob/main/Business%20Case%20Studies/Foodie-Fi%20queries.sql)
+
+**Description**: The dataset includes subscription and plan data for Foodie-Fi, a fictional subscription-based streaming service. This project focuses on analyzing customer behavior, subscription trends, and churn patterns through a series of structured queries. The analysis addresses various business questions, including customer acquisition, plan preferences, churn rates, and upgrade/downgrade patterns.
+
+**Skills**: DQL (Data Query Language), Analytical SQL, Aggregation, Window Functions, Joins, Subqueries.
+
+**Technology**: PostgreSQL
 ## Education
 ## Contact
