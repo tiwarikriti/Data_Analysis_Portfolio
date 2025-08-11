@@ -15,6 +15,8 @@ You can peek at my resume [here](Kriti_Tiwari_DA.pdf). It’s like my data journ
 
 - [About](#about) 
 - [Portfolio Projects](#portfolio-projects)
+  - Python
+    - [Retail Orders Analysis](#retail-orders-analysis)
   - SQL
     - [Covid 19 Data Exploration](#covid-19-data-exploration)
     - [Foodie-Fi SQL Data Analysis](#foodie-fi-sql-data-analysis)
@@ -27,6 +29,15 @@ You can peek at my resume [here](Kriti_Tiwari_DA.pdf). It’s like my data journ
 - [Contact](#contact)
 
 ## Portfolio Projects
+### Retail Orders Analysis
+**File**: [Retail Orders Analysis](https://github.com/tiwarikriti/Data-Analysis/tree/main/Retail%20Orders%20Analysis)
+
+**Description**: The dataset contains retail order details including pricing, discounts, costs, and order dates. This project covers automated dataset retrieval via Kaggle API, data cleaning and transformation in Python (Pandas), and storage in MySQL. The analysis includes identifying top-selling products, revenue trends, category performance, and YoY profit growth using advanced SQL queries.
+
+**Skills**: Data Cleaning, ETL Pipeline, Joins, CTEs, Window Functions, Aggregate Functions, Date Functions
+
+**Technology**: Python, Pandas, Kaggle API, MySQL, SQLAlchemy
+
 ### Covid 19 Data Exploration
 **Code**: [COVID Project.sql](https://github.com/tiwarikriti/Mentorness/blob/main/COVID%20Spread%20Analysis/COVID.sql)
 
